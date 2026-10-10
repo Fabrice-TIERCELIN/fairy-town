@@ -5,7 +5,7 @@
 
 		"texts" : {
 			"name" : "Siniri",
-			"biography" : "Siniri is a bit of a celebrity in the world of Fairies. She and her entourage are known as the Royal Gold Fairy brigade.",
+			"biography" : "Siniri rose from humble origins to become the most celebrated captain among the Fairies. At her side, the Royal Gold Fairy brigade has become legend, its displays of wingwork drawing crowds from every glade. Veterans whisper that sprites serving under her golden banner fly swifter and strike truer, as if her mere presence lent strength to their gossamer wings.",
 			"specialty" : {
 				"description" : "Increases the speed of Noble Sprites and Sprite Queens by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up).",
 				"tooltip" : "Creature Bonus: Noble Sprites",
